@@ -9,7 +9,7 @@ FunkSVD_Model_based_recommendation_engine
 
 ## Project Motivation
 In the notebook, we write the code to implement Funk Singular Value Decomposition.
-First, consider we have a user-item matrix that looks like the matrix below, where we want to make an update of U and V matrices based on the 4 highlighted.
+Let us consider we have a user-item matrix that looks like the matrix below, where we want to make an update of U and V matrices based on the 4 highlighted.
 
 ![User-movier ratings](https://github.com/Tsakunelson/FunkSVD_Model_based_recommendation_engine/blob/master/Figure5.png)
 
