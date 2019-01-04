@@ -1,11 +1,11 @@
 # FunkSVD_Model_based_recommendation_engine
 FunkSVD_Model_based_recommendation_engine
 ## Installation
-Anaconda 4.5.11 distribution 
-Python 3.6 
-Numpy and Pandas
-Matplotlib
-Scipy
+- Anaconda 4.5.11 distribution 
+- Python 3.6 
+- Numpy and Pandas
+- Matplotlib
+- Scipy
 
 ## Project Motivation
 In the notebook, we write the code to implement Funk Singular Value Decomposition.
