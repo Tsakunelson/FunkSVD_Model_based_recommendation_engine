@@ -15,7 +15,7 @@ First, consider we have a user-item matrix that looks like the matrix below, whe
 
 Also consider we have the following U and V matrices:
 
-![U and V matrices]()
+![U and V matrices](https://github.com/Tsakunelson/FunkSVD_Model_based_recommendation_engine/blob/master/Figure6.png)
 
 To identify what the current prediction would be for the rating 4 (highlighted in the first image above) based on the current values in the U and V matrices, we perform a linear combination of the corrsponding row and column, resulting to -1.8. This is quite far from the expected rating value, and would prodice a large error with respect to the original value. With the help of gradient descent and a loss function, we would be able to make accurate predictions in this project. 
 
