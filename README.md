@@ -8,7 +8,7 @@ Model_based Recommendation Engine
 - Scipy
 
 ## Project Motivation
-In this notebook, we implement a model based recommendation engines to address two major issues faced by most recommendation systems: 
+In this notebook, we implement a model based recommendation engine to address two major issues faced by most recommendation systems: 
 - The cold start problem
 - Providing an offline testing environment, to prevent customer churn.
 
