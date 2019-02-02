@@ -16,7 +16,7 @@ Funk Singular Value Decomposition is adopted as matrix factorization model, to w
 
 ![User-movier ratings](./Figure5.png)
 
-We also have the following U and V matrices:
+We also have the following U (left) and V (right) matrices:
 
 ![U and V matrices](./Figure6.png)
 
